@@ -4,9 +4,9 @@ email: "kontact@alicjanowak.art"
 description: "Alicja Nowak Art"
 url: "https://alicjanowak.art"
 baseurl: "/"
-facebook_username: ""
+facebook_username: "alicjanowak.art"
 twitter_username: ""
-instagram_username: ""
+instagram_username: "alicjanowak.art"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://alicjanowak.art/photorama/gallery/"  
-  - JOURNAL: "https://alicjanowak.art/photorama/journal/"
-  - ABOUT: "https://alicjanowak.art/photorama/about/"
+  - GALERIA: "https://alicjanowak.art/photorama/gallery/"  
+  - BLOG: "https://alicjanowak.art/photorama/journal/"
+  - O MNIE: "https://alicjanowak.art/photorama/about/"
 
 # All translation keys
 translations:
