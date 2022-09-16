@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+title: Alicja Nowak
+email: "kontact@alicjanowak.art"
+description: "Alicja Nowak Art"
+url: "https://alicjanowak.art"
+baseurl: "/alicjanowak.github.io"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Alicja Nowak
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
