@@ -36,7 +36,7 @@ nav:
   - O MNIE: "/about/"
   - PORTFOLIO: "/gallery/"  
   - HISTORIE: "/journal/"
-  - KONTACT: "/kontact/"  
+  - KONTAKT: "/kontakt/"  
 
 # All translation keys
 translations:
