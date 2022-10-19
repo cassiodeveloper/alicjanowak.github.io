@@ -61,7 +61,7 @@ ul.aligncenter, .aligncenter ul, ol.aligncenter, .aligncenter ol { list-style-po
 .hidden { display: none; }
 .big, big { font-size: 1.15em; line-height: 1.5; font-weight: 300; }
 /* h2.big { font-size: 240%; letter-spacing: .1em; } */
-#logo2 { height: 40px; }
+#logo2 { height: 40px; margin-top: 0px; margin-bottom: 0px; }
 .extrabig { font-size: 1.9em; line-height: 1.3; }
 .small, small { font-size: .85em; line-height: 1.5; }
 .extrasmall { font-size: .6em; }
