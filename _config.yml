@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALERIA: "https://alicjanowak.art/photorama/gallery/"  
-  - BLOG: "https://alicjanowak.art/photorama/journal/"
-  - O MNIE: "https://alicjanowak.art/photorama/about/"
+  - O MNIE: "/about/"
+  - GALERIA: "/gallery/"  
+  - BLOG: "/journal/"
 
 # All translation keys
 translations:
