@@ -34,8 +34,9 @@ comments :
 # Internal nav
 nav:
   - O MNIE: "/about/"
-  - GALERIA: "/gallery/"  
-  - BLOG: "/journal/"
+  - PORTFOLIO: "/gallery/"  
+  - HISTORIE: "/journal/"
+  - KONTACT: "/kontact/"  
 
 # All translation keys
 translations:
