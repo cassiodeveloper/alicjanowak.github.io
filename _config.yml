@@ -37,7 +37,7 @@ nav:
   - PORTFOLIO: "/gallery/"  
   - OFERTA: "/oferta/"  
   - HISTORIE: "/journal/"
-  - KONTAKT: "/kontakt/"  
+  - KONTAKT: "/contact/"  
 
 # All translation keys
 translations:
