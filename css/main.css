@@ -39,11 +39,13 @@ a img:focus {
 }
 .button-home
 {
-  color: #da6424;
+  color: #FFFFFF;
+  background-color: #da6424;
+  border: none;
 }
 .button-home:hover
 {
-  color: #994517;
+  background-color: #da6424;
 }
 blockquote {
   color: #808080;
