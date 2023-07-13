@@ -37,6 +37,14 @@ a img:focus {
   cursor: zoom-in;
   outline: none;
 }
+.button-home
+{
+  color: #da6424;
+}
+.button-home:hover
+{
+  color: #994517;
+}
 blockquote {
   color: #808080;
   font-style: italic;
