@@ -1,7 +1,7 @@
 # Site settings
-title: Alicja Nowak
+title: Fotografie o miłości, ludziach i emocjach.
 email: "kontact@alicjanowak.art"
-description: "Alicja Nowak Art"
+description: "Alicja Nowak Art - Fotografie o miłości, ludziach i emocjach."
 url: "https://alicjanowak.art"
 baseurl: "/"
 facebook_username: "alicjanowak.art"
@@ -18,7 +18,7 @@ owner:
   name:   Alicja Nowak
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Fotografie o miłości, ludziach i emocjach.
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -35,6 +35,7 @@ comments :
 nav:
   - O MNIE: "/about/"
   - PORTFOLIO: "/gallery/"  
+  - OFERTA: "/oferta/"  
   - HISTORIE: "/journal/"
   - KONTAKT: "/kontakt/"  
 
